@@ -54,7 +54,7 @@ npm install
 
 ## API References
 
-PNC20 API references: [link here](https://chainapi.pandoproject.org/#a57f6798-628d-4d21-8ea8-7770696257e9)
+PNC721 API references: [link here](https://chainapi.pandoproject.org/#a57f6798-628d-4d21-8ea8-7770696257e9)
 
 For more detai please refer our official documents [Click here](https://docs.pandoproject.org/pandoproject/smart-contracts)
 
