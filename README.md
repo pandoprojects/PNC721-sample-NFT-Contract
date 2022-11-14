@@ -58,6 +58,7 @@ PNC721 API references: [link here](https://chainapi.pandoproject.org/#a57f6798-6
 
 For more detai please refer our official documents [Click here](https://docs.pandoproject.org/pandoproject/smart-contracts)
 
-License
+## License
+
 The PNC721 protocol reference implementation is licensed under the [GNU License](https://github.com/pandoprojects/PNC721-sample-NFT-Contract/blob/main/LICENSE)
 
